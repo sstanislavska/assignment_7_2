@@ -1,0 +1,6 @@
+GET http://localhost:5000/counter
+
+###
+
+POST http://localhost:5000/reset-counter
+
